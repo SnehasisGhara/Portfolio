@@ -1,0 +1,5 @@
+I am Snehasis Ghara, a passionate Web Developer with a strong foundation in Computer Science and Engineering. I excel in front-end development, leveraging my skills in HTML, CSS, and JavaScript to create engaging and user-centric web experiences. Throughout my academic journey at Netaji Subhash Engineering College and Kingston Polytechnic College, I have consistently demonstrated a commitment to learning and applying new technologies.
+            <br />
+            Driven by a curiosity for innovation, I recently interned at Xenonstack, where I gained practical experience in software development methodologies, Linux environments, and DevOps practices. This internship has equipped me with valuable insights into the Software Development Life Cycle (SDLC) and agile methodologies.
+            <br />
+            As I continue to evolve in my career, I am eager to contribute my skills and passion for technology to innovative projects that make a meaningful impact.
