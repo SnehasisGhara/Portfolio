@@ -5,7 +5,9 @@ import { FaLinkedin, FaGithub } from "react-icons/fa";
 // <FaGithub />
 import { MdOutlineEmail } from "react-icons/md";
 {/* <MdOutlineEmail /> */ }
-import { IoMdDownload } from "react-icons/io";
+import HeroImage from './assets/HeroImage.png';
+
+
 // <IoMdDownload />
 // mx-auto
 function Home() {
@@ -114,8 +116,9 @@ function Home() {
                 {/* Image portion  */}
                 <div className='mt-2 h-auto md:w-1/2 p-3 flex justify-center relative '>
                     <div className='relative w-full h-full hover:-translate-y-1 transition-all duration-300'>
-                        <img className=' w-48 h-48  lg:w-[400px] lg:h-[400px] object-center object-contain rounded-full shadow-[0_20px_50px_rgba(8,_112,_184,_0.7)] bg-gradient-to-t from-slate-950 to-transparent' src="src/assets/Pic1-removebg-preview (1).png"
-                            alt="" />
+                        <img className=' w-48 h-48  lg:w-[400px] lg:h-[400px] object-center object-contain rounded-full shadow-[0_20px_50px_rgba(8,_112,_184,_0.7)] bg-gradient-to-t from-slate-950 to-transparent' 
+                        src={HeroImage}
+                        alt="" />
                     </div>
                 </div>
 

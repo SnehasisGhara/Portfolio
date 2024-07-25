@@ -1,4 +1,5 @@
 import React from 'react'
+import AboutImage from './assets/AboutImage.png'
 
 function About() {
 
@@ -23,7 +24,7 @@ function About() {
         <div className="md:w-1/2 p-3 flex justify-center relative  ">
           <div className="relative  hover:-translate-y-1 transition-all  duration-300 ">
             <img
-              src="src/assets/Pic4-removebg-preview.png"
+              src={AboutImage}
               alt="Snehasis Ghara"
               className="rounded-full w-48 h-48 md:w-[500px] md:h-[500px] object-cover shadow-xl "
             />
