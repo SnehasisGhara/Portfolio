@@ -1,11 +1,11 @@
-import React from 'react'
+import React from 'react';
 import { MdKeyboardArrowRight } from "react-icons/md";
-import { Cursor, useTypewriter } from 'react-simple-typewriter'
+import { Cursor, useTypewriter } from 'react-simple-typewriter';
 import { FaLinkedin, FaGithub } from "react-icons/fa";
 // <FaGithub />
 import { MdOutlineEmail } from "react-icons/md";
 {/* <MdOutlineEmail /> */ }
-import HeroImage from './assets/HeroImage.png';
+import HeroImage from '../assets/HeroImage.png';
 
 
 // <IoMdDownload />
